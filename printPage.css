@@ -145,6 +145,22 @@ table {
  	margin-right:5%;
 }
 
+.portWebContentImage{
+	margin-top: 2em;
+	margin-bottom: 1.5em;
+ 	max-width: 350px;
+ 	margin-left:5%;
+ 	margin-right:5%;
+}
+
+.enterSite{
+	max-width: 125px;
+	margin-top: 4em;
+	margin-right: auto;
+	margin-bottom: 150px;
+	margin-left: auto;
+}
+
 /* /// Portfolio Detail /// */
 
 .portfolioDetail{
